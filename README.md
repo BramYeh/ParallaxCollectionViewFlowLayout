@@ -1,0 +1,4 @@
+ParallaxCollectionViewFlowLayout
+================================
+
+ParallaxCollectionViewFlowLayout
