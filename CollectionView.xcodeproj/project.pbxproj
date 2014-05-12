@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		371947BC1920E6CA00BC35F9 /* ParallaxCollectionViewFlowLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = 371947BB1920E6CA00BC35F9 /* ParallaxCollectionViewFlowLayout.m */; };
+		371947BF1920EC2800BC35F9 /* ParallaxCollectionViewFlowLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = 371947BE1920EC2800BC35F9 /* ParallaxCollectionViewFlowLayout.m */; };
 		53113E7D159E787A00E1FBC5 /* DetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 53113E7C159E787A00E1FBC5 /* DetailViewController.m */; };
 		533304E615C0667E00255780 /* 0_full.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 533304A515C0667E00255780 /* 0_full.JPG */; };
 		533304E715C0667E00255780 /* 10_full.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 533304A615C0667E00255780 /* 10_full.JPG */; };
@@ -90,8 +90,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		371947BA1920E6CA00BC35F9 /* ParallaxCollectionViewFlowLayout.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ParallaxCollectionViewFlowLayout.h; sourceTree = "<group>"; };
-		371947BB1920E6CA00BC35F9 /* ParallaxCollectionViewFlowLayout.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ParallaxCollectionViewFlowLayout.m; sourceTree = "<group>"; };
+		371947BD1920EC2800BC35F9 /* ParallaxCollectionViewFlowLayout.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ParallaxCollectionViewFlowLayout.h; sourceTree = "<group>"; };
+		371947BE1920EC2800BC35F9 /* ParallaxCollectionViewFlowLayout.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ParallaxCollectionViewFlowLayout.m; sourceTree = "<group>"; };
 		53113E7B159E787A00E1FBC5 /* DetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DetailViewController.h; sourceTree = "<group>"; };
 		53113E7C159E787A00E1FBC5 /* DetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DetailViewController.m; sourceTree = "<group>"; };
 		533304A515C0667E00255780 /* 0_full.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 0_full.JPG; sourceTree = "<group>"; };
@@ -303,8 +303,8 @@
 		53C4ED3B159E740C0019285D /* CollectionView */ = {
 			isa = PBXGroup;
 			children = (
-				371947BA1920E6CA00BC35F9 /* ParallaxCollectionViewFlowLayout.h */,
-				371947BB1920E6CA00BC35F9 /* ParallaxCollectionViewFlowLayout.m */,
+				371947BD1920EC2800BC35F9 /* ParallaxCollectionViewFlowLayout.h */,
+				371947BE1920EC2800BC35F9 /* ParallaxCollectionViewFlowLayout.m */,
 				53C4ED44159E740C0019285D /* AppDelegate.h */,
 				53C4ED45159E740C0019285D /* AppDelegate.m */,
 				53C4ED4A159E740D0019285D /* ViewController.h */,
@@ -477,7 +477,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				53C4ED42159E740C0019285D /* main.m in Sources */,
-				371947BC1920E6CA00BC35F9 /* ParallaxCollectionViewFlowLayout.m in Sources */,
+				371947BF1920EC2800BC35F9 /* ParallaxCollectionViewFlowLayout.m in Sources */,
 				53C4ED46159E740C0019285D /* AppDelegate.m in Sources */,
 				53C4ED4C159E740D0019285D /* ViewController.m in Sources */,
 				53C4ED54159E75F40019285D /* Cell.m in Sources */,
